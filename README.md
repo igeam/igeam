@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @igeam
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in art, design, visual and material culture, development and many other things
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python and data analysis
 
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
+- 📫 Feel free to reach me through my email!
 
